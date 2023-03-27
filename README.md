@@ -16,7 +16,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/WindowsForms-Note-App.git
+git clone https://github.com/pedrosantos00/NoteApp.git
 Open the project in Visual Studio.
 Build and run the application.
 
@@ -32,4 +32,5 @@ To view all notes, simply launch the application and they will be displayed in t
 
 If you find any bugs or have ideas for new features, please create a new issue in the GitHub repository.
 
-
+## **Future improvements**
+Add SQL to it
