@@ -1,7 +1,6 @@
 # NoteApp
 ## **NoteApp Aplication**
-WindowsForms Note App
-This is a simple note-taking application built using WindowsForms. It allows users to add, delete, and view notes, as well as add dates to them.
+This is a simple note-taking application built using WindowsForms. It allows users to add, delete, and view notes.
 
 ![image](https://user-images.githubusercontent.com/62798656/228037529-94ca600c-fff0-40d2-8174-e1435f401593.png)
 
@@ -12,7 +11,9 @@ Add notes
 Delete notes
 Add dates to notes
 View all notes
-Installation
+
+## **Installation**
+
 Clone the repository:
 bash
 Copy code
